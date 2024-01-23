@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.submit{
+    border: none;
+    outline: none;
+    padding: 4px;
+}
+
+.submit:hover{
+    background: rgb(40, 139, 226);
+}
